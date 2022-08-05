@@ -19,10 +19,10 @@ public class Loops {
 
 //        Do While
 
-        do{
-//            Statement
-        }
-        while (true);
+//        do{
+////            Statement
+//        }
+//        while (true);
 
 //        For Each Loop
 
